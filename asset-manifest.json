@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/demi/static/css/main.03ec14d1.chunk.css",
+    "main.js": "/demi/static/js/main.385feb9b.chunk.js",
+    "main.js.map": "/demi/static/js/main.385feb9b.chunk.js.map",
+    "runtime-main.js": "/demi/static/js/runtime-main.e41496f1.js",
+    "runtime-main.js.map": "/demi/static/js/runtime-main.e41496f1.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/demi/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.013458b2.chunk.js": "/demi/static/js/2.013458b2.chunk.js",
+    "static/js/2.013458b2.chunk.js.map": "/demi/static/js/2.013458b2.chunk.js.map",
+    "index.html": "/demi/index.html",
+    "precache-manifest.e12fd98af56ddc04a52c9dcf6e763188.js": "/demi/precache-manifest.e12fd98af56ddc04a52c9dcf6e763188.js",
+    "service-worker.js": "/demi/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/demi/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.03ec14d1.chunk.css.map": "/demi/static/css/main.03ec14d1.chunk.css.map",
+    "static/js/2.013458b2.chunk.js.LICENSE.txt": "/demi/static/js/2.013458b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e41496f1.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.013458b2.chunk.js",
+    "static/css/main.03ec14d1.chunk.css",
+    "static/js/main.385feb9b.chunk.js"
+  ]
+}
